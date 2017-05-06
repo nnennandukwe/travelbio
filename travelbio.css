@@ -1,0 +1,24 @@
+blockquote{
+	margin-left:75px;
+	margin-right:80px;
+	text-align:justify;
+	font-style:italic;
+	color:darkgray;
+}
+.blurb{
+	margin-left:70px;
+	margin-right:75px;
+	font-size:16px;
+}
+h3{
+	margin:60px;
+}
+#bullets{
+	list-style:disc;
+}
+.afro-anime{
+	height:350px;
+	width:;
+	float:left;
+	border-radius:10px;
+}
